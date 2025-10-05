@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# 随机生成一些训练数据（不需要外部数据文件）
-np.random.seed(42)  # 设置随机种子，确保结果可复现
+# 随机生成一些训练数据
+np.random.seed(42)  # 设置随机种子
 
 # 生成两类数据点
 num_samples = 100
