@@ -40,7 +40,7 @@ pip install numpy matplotlib
 
 3. 运行Python脚本：
    ```bash
-   python simple_ai_example.py
+   python ailab_test.py
    ```
 
 4. 程序会输出模型准确率，并显示一个包含数据点和决策边界的图形窗口。
