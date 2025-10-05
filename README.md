@@ -30,7 +30,7 @@ pip install numpy matplotlib
 
 1. 克隆本仓库到本地：
    ```bash
-   git clone https://github.com/你的用户名/你的仓库名.git
+   git clone https://github.com/huanshenC/huan.git
    ```
 
 2. 进入项目目录：
