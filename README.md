@@ -35,7 +35,7 @@ pip install numpy matplotlib
 
 2. 进入项目目录：
    ```bash
-   cd 你的仓库名
+   cd huan
    ```
 
 3. 运行Python脚本：
