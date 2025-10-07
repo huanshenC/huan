@@ -26,6 +26,10 @@
 ```bash
 pip install numpy matplotlib
 ```
+or
+```bash
+pip install -r requirements.txt
+```
 ### 运行步骤
 
 1. 克隆本仓库到本地：
