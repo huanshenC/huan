@@ -66,8 +66,8 @@ print(f"模型准确率: {accuracy * 100:.2f}%")
 plt.figure(figsize=(10, 6))
 
 # 绘制数据点
-plt.scatter(class1[:, 0], class1[:, 1], color='blue', label='类别 0')
-plt.scatter(class2[:, 0], class2[:, 1], color='red', label='类别 1')
+plt.scatter(class1[:, 0], class1[:, 1], color='blue', label='Class 0')
+plt.scatter(class2[:, 0], class2[:, 1], color='red', label='Class 1')
 
 # 绘制决策边界
 x1_min, x1_max = X[:, 0].min() - 1, X[:, 0].max() + 1
@@ -79,8 +79,8 @@ Z = model.predict(np.c_[xx1.ravel(), xx2.ravel()])
 Z = np.array(Z).reshape(xx1.shape)
 plt.contourf(xx1, xx2, Z, alpha=0.3, cmap=plt.cm.coolwarm)
 
-plt.title('逻辑回归分类结果')
-plt.xlabel('特征 1')
-plt.ylabel('特征 2')
-plt.legend()
+plt.title('Logistic Regression Classification Result')
+plt.xlabel('Feature 1')
+plt.ylabel('Feature 2')
 plt.show()
+
