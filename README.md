@@ -31,7 +31,7 @@ or
 pip install -r requirements.txt
 ```
 ### 运行步骤
-方法一：
+## 方法一：
 
 1.点击右上角的code，下载压缩文件（download zip）
 2.解压缩到一个目录下
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 
 
-方法二：
+## 方法二：
 1. 克隆本仓库到本地：
    ```bash
    git clone https://github.com/la1jh/huan.git
