@@ -18,7 +18,7 @@
 
 ### 前置条件
 
-确保你已经安装了以下Python库：
+确保你的虚拟环境已经安装了以下Python库：
 - numpy
 - matplotlib
 
@@ -31,7 +31,13 @@ or
 pip install -r requirements.txt
 ```
 ### 运行步骤
+####方法一：
+1.
 
+
+
+
+####方法二：
 1. 克隆本仓库到本地：
    ```bash
    git clone https://github.com/la1jh/huan.git
