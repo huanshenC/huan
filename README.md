@@ -32,6 +32,7 @@ pip install -r requirements.txt
 ```
 ### 运行步骤
 方法一：
+
 1.点击右上角的code，下载压缩文件（download zip）
 2.解压缩到一个目录下
 3.点击目录文件夹上方的路径栏
