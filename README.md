@@ -33,13 +33,13 @@ pip install -r requirements.txt
 ### 运行步骤
 ## 方法一：
 
-1.点击右上角的code，下载压缩文件（download zip）
-2.解压缩到一个目录下
-3.点击目录文件夹上方的路径栏
-4.输入cmd后进入终端
-5.激活虚拟环境
-6.输入jupyter lab进入网页
-7.feel free to run the buttons
+1. 点击右上角的code，下载压缩文件（download zip）
+2. 解压缩到一个目录下
+3. 点击目录文件夹上方的路径栏
+4. 输入cmd后进入终端
+5. 激活虚拟环境
+6. 输入jupyter lab进入网页
+7. feel free to run the buttons！
 
 
 
